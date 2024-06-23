@@ -1,0 +1,292 @@
+@media only screen and (max-width: 1001px) {
+    .navbar {
+        flex-direction: column;
+        height: 32rem;
+    }
+
+    .sect ul {
+        flex-direction: column;
+    }
+
+    .sect ul li {
+        padding: 16px 0;
+    }
+
+    .sect i {
+        padding: 15px 0;
+    }
+
+    .main-container{
+        margin-bottom: 140px;
+    }
+
+    .heading h3 {
+        width: 23rem;
+    }
+
+    .home-container {
+        height: 50vh;
+    }
+
+    .para0 {
+        width: 17rem;
+        padding: 0 24px;
+    }
+
+    .right {
+        margin-top: 15px;
+    }
+
+    .right img {
+        width: 19rem;
+        height: 12rem;
+    }
+
+    .headingg {
+        padding: 0 9px;
+    }
+
+    .para2 {
+        padding: 0 37px;
+    }
+
+    .intro {
+        flex-wrap: wrap;
+    }
+
+    .intro_container {
+        flex-wrap: wrap;
+        /* flex-direction: column; */
+    }
+
+    .envornment {
+        height: 14.5rem;
+    }
+
+    .left_main img {
+        width: 19rem;
+        height: 17rem;
+    }
+
+    .right_main {
+        text-align: center;
+        padding: 0 7px;
+    }
+
+    .child-container {
+        /* flex-wrap: wrap; */
+        flex-direction: column;
+    }
+
+    .arial {
+        text-align:center;
+    }
+
+    .contact_container {
+        flex-wrap: wrap;
+    }
+
+    .list-para {
+        text-align: center;
+    }
+
+    .contact_form {
+        text-align: center;
+    }
+
+    .form_input {
+        width: 17rem;
+    }
+
+    .label_control {
+        width: 17rem;
+        margin-left: 0px;
+    }
+
+    #email {
+        width: 17rem;
+    }
+
+    .form-control-submit-button {
+        margin: 32px 0 0 -17px
+    }
+
+    .contact-headdin {
+
+        text-align: center;
+        padding: 0 9px;
+    }
+
+
+    #counter_cell {
+        flex-direction: column;
+        gap: 33px;
+}
+
+.contact_info {
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.second_contact{
+    text-align: center;
+}
+
+.form-gro{
+    text-align: center;
+}
+
+#fname, #email {
+    width: 11rem;
+}
+
+#cmessage {
+    width: 14rem;
+}
+
+.contact_info{
+    margin-top: -51px
+}
+
+.para_graph{
+    padding: 0 8px;
+    width: 19rem;
+}
+
+.form_gro{
+    padding: 29px;
+}
+
+.child_nav{
+    margin-top: -30rem;
+}
+
+.child_container_image{
+    margin-top: -19rem;
+}
+}
+/*
+---------------------------------------
+--------------------------------------- */
+@media only screen and (max-width: 1180px) {
+
+    .full-container {
+        flex-wrap: wrap;
+    }
+
+    .card-container {
+        margin: 10px 0;
+    }
+
+}
+
+@media only screen and (max-width: 1288px) {
+
+    .child-container {
+        flex-direction: column;
+    }
+
+    .child-content {
+        height: 110vh;
+        background: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .image-container {
+        flex-direction: column;
+        gap: 37px;
+        margin-top: 17rem;
+    }
+
+    .parent-div,
+    .parent-div1,
+    .parent-div2 {
+        width: 10rem;
+    }
+
+    .company-growth {
+        margin-left: 0;
+    }
+
+    .chid-heading {
+        margin-left: 0rem;
+    }
+
+    .growth {
+        height: 256px;
+    }
+
+    .child-container-image {
+        /* display: none; */
+    }
+
+}
+
+@media only screen and (max-width: 759px) {
+
+    .child-container-image {
+        margin-top: 25px;
+
+    }
+}
+
+@media only screen and (max-width: 425px) {
+
+    .child-container-image {
+        margin-top: 57px;
+    }
+}
+
+@media only screen and (max-width: 401px) {
+
+    .child-container-image {
+
+        margin-top: 116px;
+    }
+
+    .contact-headdin {
+        margin-left: 67px;
+    }
+
+    .project_headding{
+        padding: 0 8px;
+  text-align: center;
+    }
+
+    .about_image img {
+        margin-right: 0rem;
+    }
+
+    .about_headding{
+        padding: 0 113px;
+        margin: 0 59px;
+    }
+
+  
+
+@media only screen and (max-width:1274px) {
+
+    .child-container-image {}
+
+    .project_nav {
+        flex-direction: column;
+        gap: 34px;
+    }
+}
+
+@media only screen and (max-width: 1001px) {
+
+    .child-container-image {
+        
+    }
+}
+
+@media only screen and (max-width: 396px) {
+
+    .child-container-image {}
+}
